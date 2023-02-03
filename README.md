@@ -6,7 +6,7 @@
 
 I am Joshua Hernandez, a passionate full-stack developer (working :computer: on further improvement) and a freelance software developer from the Philippines. My passion for software development comes from my joy of solving logical problems (especially in coding). 
 
-My biggest belief in bettering myself is to always ask questions and collaborate with someone having more experience + knowledge with me. I believe in the quote “If you're the smartest person in the room, you are in the wrong room.” I know that i do not know a whole lot especially in the world of software development but i am working on being a better version of myself everyday. Hopefully along with the guidance of brilliant people i meet along my journey.
+My biggest belief in bettering myself is to always ask questions and collaborate with someone having more experience + knowledge than me. I believe in the quote “If you're the smartest person in the room, you are in the wrong room.” I know that i do not know a whole lot especially in the world of software development but i am working on being a better version of myself everyday. Hopefully along with the guidance of brilliant people i meet along my journey.
 
 
 - 🔭 I’m currently working on my realtime chat application to showcase websockets using flutter, nest.js and react
