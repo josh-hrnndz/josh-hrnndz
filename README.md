@@ -1,10 +1,32 @@
 ### Hi there 👋 Welcome to my Github Profile! 
 
+![star-wars-baby-yoda](https://user-images.githubusercontent.com/68814603/216550566-708723e3-4894-45b6-bb7b-fcd0215e23fe.gif)
+
 ![](https://komarev.com/ghpvc/?username=josh-hrnndz&color=blue)
 
 I am Joshua Hernandez, a passionate full-stack developer (working :computer: on further improvement) and a freelance software developer from the Philippines. My passion for software development comes from my joy of solving logical problems (especially in coding). 
 
 My biggest belief in bettering myself is to always ask questions and collaborate with someone having more experience + knowledge with me. I believe in the quote “If you're the smartest person in the room, you are in the wrong room.” I know that i do not know a whole lot especially in the world of software development but i am working on being a better version of myself everyday. Hopefully along with the guidance of brilliant people i meet along my journey.
+
+
+- 🔭 I’m currently working on my realtime chat application to showcase websockets using flutter, nest.js and react
+- 🌱 I’m currently learning node.js frameworks such as express.js and next.js. I am also trying to learn docker.
+- 👯 I’m looking to collaborate on ANYTHING 
+- 💬 Ask me about anything as long as i have knowledge about it
+- 😄 Pronouns: He/His/Him
+- ⚡ Fun fact: Coding is fun!
+
+## 📫 How to reach me 🤙
+<p align="left">
+<a href="https://www.linkedin.com/in/joshua-hernandez-128644257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="" height="30" width="30" /></a>
+<a href="https://www.facebook.com/joshuahernandez46" target="blank">
+<img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="" height="30" width="30" />
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=joshuamorales401@gmail.com" target="blank">
+<img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="" height="30" width="30" />
+</a>
+
+</p>
 
 ## Languages and Tools:
 <p align="left">
@@ -23,30 +45,6 @@ My biggest belief in bettering myself is to always ask questions and collaborate
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=josh-hrnndz&count_private=true&show_icons=true&theme=radical)
-
-## 📫 How to reach me 🤙
-<p align="left">
-<a href="https://www.linkedin.com/in/joshua-hernandez-128644257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="" height="30" width="30" /></a>
-<a href="https://www.facebook.com/joshuahernandez46" target="blank">
-<img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="" height="30" width="30" />
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=joshuamorales401@gmail.com" target="blank">
-<img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Gmail.svg" alt="" height="30" width="30" />
-</a>
-
-</p>
-
-
-- 🔭 I’m currently working on my realtime chat application to showcase websockets using flutter, nest.js and angular
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josh-hrnndz)](https://git.io/streak-stats)
 
