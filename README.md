@@ -41,6 +41,9 @@ My biggest belief in bettering myself is to always ask questions and collaborate
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.cdnlogo.com/logos/g/62/gitkraken.svg" alt="gitkraken" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" alt="gitkraken" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.cdnlogo.com/logos/s/91/spring.svg" alt="gitkraken" width="40" height="40" style="max-width: 100%;">
 </p>
 
 
