@@ -51,3 +51,7 @@ My biggest belief in bettering myself is to always ask questions and collaborate
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=josh-hrnndz)](https://git.io/streak-stats)
 
+## Featured Projects
+👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇      
+👇👇👇👇I am creating more small projects and will be pinning them here👇👇👇👇👇         
+👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇    
